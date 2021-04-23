@@ -15,7 +15,7 @@ logado = True
 if ativo and logado: 
     print('Bem-vindo usuário!')
 else: 
-    print('Você precisa ativar a sua conta, chegue se e-mail')
+    print('Você precisa ativar a sua conta, chegue seu e-mail')
 
 
 

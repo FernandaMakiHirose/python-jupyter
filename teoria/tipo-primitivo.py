@@ -80,7 +80,7 @@ False and False: False
 
 String: é tudo que estiver entre aspas simples, aspas duplas, aspas simples triplas, aspas simples triplas, aspas duplas triplas
 
-Se você tem o nome: Gina´s Bar, por ter aspas simples, ela fica dentro de aspas duplas
+Se você tem o nome: Fernanda´s Bar, por ter aspas simples, ela fica dentro de aspas duplas
 
 nome = "Fernanda´s Bar"
 
