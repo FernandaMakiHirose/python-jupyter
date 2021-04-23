@@ -28,4 +28,6 @@ Vai mostrar do 1 até o 10 de 2 em 2
 Exemplo 4:
 for num in range(10, 0, -1):
     print(num)
+
+Vai mostrar de 10 até 1 de 1 em 1
 """
