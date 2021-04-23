@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e61655c-0362-4cc6-acc5-11f6480ebc8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/teoria/escopo-de-variaveis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teoria/tipo-primitivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/teoria/tipo-primitivo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
