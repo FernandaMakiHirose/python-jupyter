@@ -11,7 +11,6 @@ for numero in range(1, 11):
 print('\nSai do loop')
 
 
-
 Exemplo 2 - Com while:
 
 while True:

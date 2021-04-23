@@ -1,5 +1,5 @@
 """
-✔️ Estruturas lógicas: and, or, not, is
+Estruturas lógicas: and, or, not, is
 
 Operadores unários: not
 Operadores binários: and, or, is
@@ -7,7 +7,7 @@ Operadores binários: and, or, is
 Para o and os dois valores precisam ser True, para o or um ou outro valor precisa ser True
 O not é o booleano invertido
 
-👍 Exemplo 1:
+Exemplo 1:
 
 ativo = True
 logado = True
@@ -19,7 +19,7 @@ else:
 
 
 
-👍 Exemplo 2:
+Exemplo 2:
 
 ativo = True
 if ativo not True:
@@ -28,7 +28,7 @@ else:
     print('Bem-vindo usuário')
 
 
-👍 Exemplo 3: 
+Exemplo 3:
 
 ativo = True
 logado = False
