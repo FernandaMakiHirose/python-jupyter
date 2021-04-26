@@ -1,5 +1,5 @@
 """
-Podemos adicionar qualquer valor nas listas, as listas aceitam valores repetidos:
+Podemos adicionar qualquer valor nas listas, as listas aceitam valores repetidos e são mutáveis:
 
 lista1 = [1, 2, 3, 4, 5] -> Lista de números
 
