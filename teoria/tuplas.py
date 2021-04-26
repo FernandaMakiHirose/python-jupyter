@@ -1,5 +1,5 @@
 """
-1- Tudo que serve para dicionário serve para lista, com execessão das listas serem imutáveis, é necessário adicionar vírgula para números únicos, usa-se parênteses e não copiamos uma tupla usando o copy():
+1- Tudo que serve para dicionário serve para lista, com exceção das listas serem imutáveis, é necessário adicionar vírgula para números únicos, usa-se parênteses e não copiamos uma tupla usando o copy():
 
 Esses dois exemplos são duas tuplas:
 tupla = (1, 2, 3, 4, 5)
@@ -48,7 +48,7 @@ print(tupla1 + tupla2)
 
 11- É possível iterar uma tupla da mesma forma que os dicionários
 
-12- Devemos usar tuplas sempre que não precisarmos modificar os dados, exemplo: meses
+12- Devemos usar tuplas sempre que não precisamos modificar os dados, exemplo: meses
 
 13- O acesso aos elementos de uma tupla são semelhantes ao acesso aos dicionários
 
@@ -57,7 +57,7 @@ print(meses[0])
 
 14- Tuplas são mais rápidas que listas
 
-15- Copiando uma tupla - na tupla não temos o problema de Shallow Copy:
+15- Copiando uma tupla - a tupla não temos o problema de Shallow Copy:
 
 tupla = (1, 2, 3)
 
