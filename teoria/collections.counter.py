@@ -13,7 +13,7 @@ res = Counter(lista)
 print(type(res))
 print(res)
 
-Exemplo 2 - Contando strings - Vai contar quantas vezes as letras da palavra apareceram:
+Exemplo 2 - Contando strings - Vai contar quantas vezes as letras da palavra aparecem:
 
 from collections import Counter
 tupla = ('Fernanda')
