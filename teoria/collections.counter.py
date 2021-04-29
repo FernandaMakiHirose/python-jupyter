@@ -41,4 +41,3 @@ texto = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 contador = Counter(texto)
 print(contador.most_common(5))
 """
-
