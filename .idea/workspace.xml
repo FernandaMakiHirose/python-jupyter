@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e61655c-0362-4cc6-acc5-11f6480ebc8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jogo-da-cobrinha/cobrinha.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte1/exercicio-if.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte2/.ipynb_checkpoints/exercicio-if-parte2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte2/exercicio-if-parte2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte3/.ipynb_checkpoints/exercicio-if-parte3-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte3/exercicio-if-parte3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte4/exercicio-if-parte4.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte5/.ipynb_checkpoints/exercicios-if-parte5-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte5/exercicios-if-parte5.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte6/exercicio-if-parte6.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte7/exercicio-if-parte7.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +30,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
   <component name="ProjectId" id="1rXWaguEgX07y4ZFFkfftLjMzR6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,7 +44,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.teste">
+  <component name="RunManager" selected="Python.cobrinha">
+    <configuration name="cobrinha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercicios-de-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jogo-da-cobrinha" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jogo-da-cobrinha/cobrinha.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="collections-counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercicios-de-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,27 +129,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mapas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Exercicios-de-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teoria" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teoria/mapas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercicios-de-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cobrinha" />
         <item itemvalue="Python.teste" />
         <item itemvalue="Python.collections.counter" />
         <item itemvalue="Python.collections-counter" />
         <item itemvalue="Python.conjuntos" />
-        <item itemvalue="Python.mapas" />
       </list>
     </recent_temporary>
   </component>
