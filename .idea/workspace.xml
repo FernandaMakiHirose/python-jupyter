@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e61655c-0362-4cc6-acc5-11f6480ebc8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jogo-da-cobrinha/cobrinha.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte1/exercicio-if.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte2/.ipynb_checkpoints/exercicio-if-parte2-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte2/exercicio-if-parte2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte3/.ipynb_checkpoints/exercicio-if-parte3-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte3/exercicio-if-parte3.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte4/exercicio-if-parte4.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte5/.ipynb_checkpoints/exercicios-if-parte5-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte5/exercicios-if-parte5.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte6/exercicio-if-parte6.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-if-parte7/exercicio-if-parte7.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jogo-da-cobrinha/cobrinha.py" beforeDir="false" afterPath="$PROJECT_DIR$/jogo-da-cobrinha/cobrinha.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
