@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e61655c-0362-4cc6-acc5-11f6480ebc8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jogo-da-cobrinha/cobrinha.py" beforeDir="false" afterPath="$PROJECT_DIR$/jogo-da-cobrinha/cobrinha.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/analise-de-dados/.ipynb_checkpoints/analise-de-dados-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/analise-de-dados/analise-de-dados.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/ciencia-de-dados/.ipynb_checkpoints/ciencia-de-dados-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/ciencia-de-dados/arquivo-inicial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/ciencia-de-dados/ciencia-de-dados.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/ciencia-de-dados/telecom_users.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/exercicio-dolar/dolar.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/if-parte1/exercicio-if.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/if-parte2/.ipynb_checkpoints/exercicio-if-parte2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/if-parte2/exercicio-if-parte2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/if-parte3/.ipynb_checkpoints/exercicio-if-parte3-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/if-parte3/exercicio-if-parte3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/if-parte4/exercicio-if-parte4.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/if-parte5/.ipynb_checkpoints/exercicios-if-parte5-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/if-parte5/exercicios-if-parte5.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/if-parte6/exercicio-if-parte6.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/if-parte7/exercicio-if-parte7.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/if-parte8/exercicio-if-parte8.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/inteligencia-artificial/.ipynb_checkpoints/inteligencia-artificial-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/inteligencia-artificial/advertising.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/inteligencia-artificial/arquivo-inicial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-exercicios/inteligencia-artificial/inteligencia-artificial.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +56,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.cobrinha">
+  <component name="RunManager" selected="Python.teste">
     <configuration name="cobrinha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercicios-de-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,8 +164,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cobrinha" />
         <item itemvalue="Python.teste" />
+        <item itemvalue="Python.cobrinha" />
         <item itemvalue="Python.collections.counter" />
         <item itemvalue="Python.collections-counter" />
         <item itemvalue="Python.conjuntos" />
