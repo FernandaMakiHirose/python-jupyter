@@ -7,8 +7,8 @@ Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero 
 
 
 ## <br />Descrição
-1. Na pasta "exercicios" você encontra mais de 100 exercícios de python resolvidos
-2. Na pasta "exercicios-resumos-jupyter" existem diversos programas para serem rodados no Jupyter, desde o 0 até integrações de diversos tipos, automação de dados e inteligência artificial
-3. Na pasta "explicando-python" existem resumos para entender melhor essa linguagem de programação
-4. Na pasta "jogos" são jogos para você se divertir
+1. Na pasta "exercicios": você encontra mais de 100 exercícios de python resolvidos
+2. Na pasta "exercicios-resumos-jupyter": diversos programas para serem rodados no Jupyter, desde o 0 até integrações de diversos tipos, automação de dados e inteligência artificial
+3. Na pasta "explicando-python": resumos para entender melhor essa linguagem de programação
+4. Na pasta "jogos": jogos para você se divertir
 
