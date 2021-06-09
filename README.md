@@ -1,4 +1,4 @@
-# Programas/Automações de dados/Integrações/Inteligência Artificial para o Jupyter
+# Programas, Automações de dados, Integrações, Inteligência Artificial para o Jupyter
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
