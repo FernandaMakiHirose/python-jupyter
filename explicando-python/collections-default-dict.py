@@ -1,3 +1,0 @@
-"""
-Módulo Collections - Default Dict
-"""
