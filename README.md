@@ -1,5 +1,6 @@
 # Do 0 ao avançado em Python com o Jupyter Notebook
 Python é uma linguagem de programação de alto nível — ou High Level Language —, dinâmica, interpretada, modular, multiplataforma e orientada a objetos — uma forma específica de organizar softwares onde, a grosso modo, os procedimentos estão submetidos às classes, o que possibilita maior controle e estabilidade de códigos para projetos de grandes proporções. <br>
+<br>
 Jupyter Notebook é uma ferramenta que está ganhando muita visibilidade entre os desenvolvedores. De acesso online ou local, a ferramenta auxilia na compilação de códigos de diferentes linguagens de programação.
 
 ## Sobre a Autora
