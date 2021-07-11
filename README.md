@@ -3,7 +3,7 @@ Esse repositório é destinado às pessoas que querem aprender Python do 0 ao av
 
 ## Pré-requisitos
 - Jupyter Notebook, Anaconda e Python instalado
-- É necessário instalar a parte as bibliotecas usadas
+- É necessário instalar as bibliotecas usadas
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
