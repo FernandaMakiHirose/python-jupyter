@@ -1,4 +1,4 @@
-# Do 0 ao avançado em Python com o Jupyter Notebook
+# Do 0 ao avançado com Python usando o Jupyter Notebook
 Esse repositório é destinado às pessoas que querem aprender Python do 0 ao avançado, desde o básico, como saber o que são variáveis, até projetos reais de inteligência artificial, automação de dados e ciência de dados. 
 
 ## Pré-requisitos
