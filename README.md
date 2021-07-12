@@ -2,8 +2,8 @@
 Esse repositório é destinado às pessoas que querem aprender Python do 0 ao avançado, desde o básico, como saber o que são variáveis, até projetos reais de inteligência artificial, automação de dados e ciência de dados. 
 
 ## Pré-requisitos
-- Jupyter Notebook, Anaconda e Python instalado
-- É necessário instalar as bibliotecas usadas
+- Jupyter Notebook, Anaconda e Python instalados.
+- É necessário instalar as bibliotecas usadas.
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
