@@ -1,6 +1,4 @@
-# Do 0 ao avançado com Python usando o Jupyter Notebook
-Esse repositório é destinado às pessoas que querem aprender Python do 0 ao avançado.
-
+# Estudando Python com o Jupyter Notebook
 ## Pré-requisitos
 - Jupyter Notebook, Anaconda e Python instalados.
 - É necessário instalar as bibliotecas usadas.
